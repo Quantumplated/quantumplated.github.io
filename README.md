@@ -23,7 +23,7 @@ For testing we used a combination of selenium, postman and junit technologies.
 Team 7 utilized the Agile project lifecycle. Especially in the beginning, we focused heavily on code rather than design; we aimed to push out working software quickly in order to evolve quickly. In this sense, we greatly valued simplicity and speed. The team strived to keep “people over process” in mind and put ourselves in the consumers’ shoes throughout each iterative approach - this obligated us to keep in mind requirements will change which made us value responding to change over following a plan. 
 
 ###### Requirements (Functional and Non-Functional) 
-The 
+Our functional requirements were that we are able to login and connect to spotify, get playlists, find friends, and be able to merge playlists. Some of the non-funcitonal requiremenst that we decided on were to have a sliding panel on the bottom and have a dynamic logo, etc.
 
 ###### Design - Architecture and low-level level diagrams 
 ![alt text](https://github.com/Quantumplated/quantumplated.github.io/blob/main/diagrams.jpg?raw=true)
@@ -33,7 +33,7 @@ Our testing strategy is a mixture of white box and black box testing. We utilize
 This fell under our plan to test our application as functional black box. For white box testing, we are mostly focusing on unit testing and utilizing Junit to do that.
 Integration testing will focus on different aspects of the application like finding playlists, finding friends, adding playlists to spotify from remixify, etc. Unit testing is focused on code logic and functionality. Things like when we remix friend playlists we don't add songs that are duplicates.
 
-###### UI
-The
+###### Conclusion
+Finally, we need some touchups in the UI and we need to design a couple more tests.
 
 
