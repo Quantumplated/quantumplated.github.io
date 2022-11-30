@@ -13,7 +13,7 @@ Remixify required a variety of technologies for its successful completion.
 React.js, Express.js, VS Code, IntelliJ, Google Cloud Platform, Google Datastore, Github, Figma
 
 ###### Project Lifecycle 
-<img src="https://github.com/Quantumplated/quantumplated.github.io/blob/main/agile.jpg?raw=true" width=50% height=50%>
+<img src="https://github.com/Quantumplated/quantumplated.github.io/blob/main/agile.jpg?raw=true" width=30% height=30%>
 
 Team 7 utilized the Agile project lifecycle. Especially in the beginning, we focused heavily on code rather than design; we aimed to push out working software quickly in order to evolve quickly. In this sense, we greatly valued simplicity and speed. The team strived to keep “people over process” in mind and put ourselves in the consumers’ shoes throughout each iterative approach - this obligated us to keep in mind requirements will change which made us value responding to change over following a plan. 
 
@@ -24,7 +24,9 @@ The
 ![alt text](https://github.com/Quantumplated/quantumplated.github.io/blob/main/diagrams.jpg?raw=true)
 
 ###### Testing - Test Strategy, test cases and outcomes 
-The 
+Our testing strategy is a mixture of white box and black box testing. We utilized selenium for integration testing and postman for API testing for our Spotify Web API. 
+This fell under our plan to test our application as functional black box. For white box testing, we are mostly focusing on unit testing and utilizing Junit to do that.
+Integration testing will focus on different aspects of the application like finding playlists, finding friends, adding playlists to spotify from remixify, etc. Unit testing is focused on code logic and functionality. Things like when we remix friend playlists we don't add songs that are duplicates.
 
 ###### UI
 The
