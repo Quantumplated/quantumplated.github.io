@@ -14,6 +14,7 @@ React.js, Express.js, VS Code, IntelliJ, Google Cloud Platform, Google Datastore
 
 ###### Project Lifecycle 
 ![alt text](https://github.com/Quantumplated/quantumplated.github.io/blob/main/agile.jpg?raw=true)
+<img src="https://github.com/Quantumplated/quantumplated.github.io/blob/main/agile.jpg?raw=true" width="150" height="280">
 Team 7 utilized the Agile project lifecycle. Especially in the beginning, we focused heavily on code rather than design; we aimed to push out working software quickly in order to evolve quickly. In this sense, we greatly valued simplicity and speed. The team strived to keep “people over process” in mind and put ourselves in the consumers’ shoes throughout each iterative approach - this obligated us to keep in mind requirements will change which made us value responding to change over following a plan. 
 
 ###### Requirements (Functional and Non-Functional) 
@@ -23,7 +24,7 @@ The
 ![alt text](https://github.com/Quantumplated/quantumplated.github.io/blob/main/diagrams.jpg?raw=true)
 
 ###### Testing - Test Strategy, test cases and outcomes 
-The
+The 
 
 ###### UI
 The
