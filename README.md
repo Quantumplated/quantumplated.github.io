@@ -6,7 +6,7 @@ The team was required to create a web-based or Android application. Team 7 came 
 Team 7 wanted to create a space for users to be able to access automatic collaborative playlists through Spotify. Remixify is perfect for late night jams with friends who want to quickly create an instantly enjoyable playlist or for discovering new songs from groups online. The project consists of a login page, a dashboard where users can connect their Spotify account and access the shared playlists of the groups that they are part of, and a search page where users can query the shared playlist of a group by name, even if they are not part of the group. 
 
 ###### Literature Review (What are related work out there?) 
-The
+We didn't find anything similar to our idea in terms of its simplicity in straightforwardness. Remixify helps multiple people in creating shared playlists.
 
 ###### Software Technologies 
 Remixify required a variety of technologies for its successful completion.
@@ -18,6 +18,7 @@ Team 7 utilized the Agile project lifecycle. Especially in the beginning, we foc
 The 
 
 ###### Design - Architecture and low-level level diagrams 
+![alt text](https://github.com/Quantumplated/quantumplated.github.io/blob/main/agile.jpg?raw=true)
 
 ###### Testing - Test Strategy, test cases and outcomes 
 The
