@@ -9,8 +9,13 @@ Team 7 wanted to create a space for users to be able to access automatic collabo
 We didn't find anything similar to our idea in terms of its simplicity in straightforwardness. Remixify helps multiple people in creating shared playlists.
 
 ###### Software Technologies 
-Remixify required a variety of technologies for its successful completion.
-React.js, Express.js, VS Code, IntelliJ, Google Cloud Platform, Google Datastore, Github, Figma
+Remixify required a variety of technologies for its successful completion. 
+
+The frontend used React.js alongside VS Code as the IDE for development. We used a number of React libraries in order to implement the functionality needed, such as react-router-dom. To prototype the frontend, Figma was used to plan out all of the pages required and finalize the visual design for each webpage, which was then imported into the React project. The frontend interfaced with the backend for API calls and displayed the information received in its components.  
+
+The backend used Express.js for simple routing, which called the Spotify Web API. Remixify was registered on the Spotify Developer Portal and users could authenticate directly with the service to avoid security vulnerabilities. The Express endpoints included endpoints for getting a Spotify user’s details, creating a playlist, adding songs to a playlist, getting a user’s top songs, and finally remixing the users’ top songs together. 
+
+For testing we used a combination of selenium, postman and junit technologies. 
 
 ###### Project Lifecycle 
 <img src="https://github.com/Quantumplated/quantumplated.github.io/blob/main/agile.jpg?raw=true" width=30% height=30%>
