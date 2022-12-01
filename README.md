@@ -18,7 +18,7 @@ The backend used Express.js for simple routing, which called the Spotify Web API
 For testing we used a combination of selenium, postman and junit technologies. 
 
 ###### Project Lifecycle 
-<img src="https://github.com/Quantumplated/quantumplated.github.io/blob/main/agile.jpg?raw=true" width=30% height=30%>
+![alt text](https://github.com/Quantumplated/quantumplated.github.io/blob/main/agile.jpg?raw=true")
 
 Team 7 utilized the Agile project lifecycle. Especially in the beginning, we focused heavily on code rather than design; we aimed to push out working software quickly in order to evolve quickly. In this sense, we greatly valued simplicity and speed. The team strived to keep “people over process” in mind and put ourselves in the consumers’ shoes throughout each iterative approach - this obligated us to keep in mind requirements will change which made us value responding to change over following a plan. 
 
