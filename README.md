@@ -33,7 +33,11 @@ Our testing strategy is a mixture of white box and black box testing. We utilize
 This fell under our plan to test our application as functional black box. For white box testing, we are mostly focusing on unit testing and utilizing Junit to do that.
 Integration testing will focus on different aspects of the application like finding playlists, finding friends, adding playlists to spotify from remixify, etc. Unit testing is focused on code logic and functionality. Things like when we remix friend playlists we don't add songs that are duplicates.
 
-###### Conclusion
+###### UI 
+
+The Figma was used to design the UI / UX and the flow. It was because the flow of the web could be complicated without architecture. The UI was designed to be simple and direct; therefore, we tried to eliminate bunch of buttons while using the functions we provide. As a result, the home button was replaced with the logo button and provided thin bar above the playlists to swipe it down. The Adobe express and Adobe Photoshop Pro was used for designing background and logo. The color changing element of logo was meant to show the concept of remixify which is focused on the ‘remix’ concept. The design concept of the backgrounds was to provide users with ‘dreamlike’ images. 
+
+Overall, the design concepts are simple, direct, dreamlike, and remix. The technologies used for designing are Figma, Adobe Photoshop Pro, and Adobe Express and for implantation are Figma-plugin-Builer.io(only for the Login and Register pages), React.js, Material UI, CSS styles, Chrome dev tools, and so on. 
 Finally, we need some touchups in the UI and we need to design a couple more tests.
 
 
